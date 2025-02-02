@@ -123,3 +123,6 @@ terraform.tfstate.backup
 *.tfplan
 .terraform.lock.hcl
 terraform.tfvars
+
+# others
+*github-token*
